@@ -19,7 +19,7 @@ class Participant {
     }
 }
 
-public class Main {
+public class Q2 {
     public static void main(String[] args) {
         String[] names = {"Ravi", "Meera", "Karthik", "Divya"};
         String[] teamNames = {
